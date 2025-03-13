@@ -3,5 +3,8 @@
 ```
 python train_LoPr.py
 ```
+## Pipeline
+![](https://raw.githubusercontent.com/d123f/LoPr/main/images/example.png)
+
 ## Acknowledgement
 We have adapted our code from [SSL4MIS](https://github.com/HiLab-git/SSL4MIS.git). We appreciate the authors' contributions to advancing the research community in semi-supervised medical image segmentation.
